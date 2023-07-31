@@ -13,3 +13,25 @@ a{
   margin: 0 10px;
   color: #542f0c;
 }
+h1{
+  font-size: 28px;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-top: 1px solid #de8e37;
+
+}
+h2{
+  font-size: normal;
+  color:#de8e37;
+  margin-top: 10px;
+}
+.imagem-banner{
+width: 700px;
+}
+.secao-destaque{
+  background-color: #de8e37;
+}
+.imagem-produtos{
+  width: 700px;
+}
